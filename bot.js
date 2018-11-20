@@ -134,7 +134,7 @@ client.on('message', message => {
   
   });
 
-  client.login("NTEzMzg0NzYwOTA3NjYxMzIy.DtWjog.PWqagJo6VSCfOuybL2_8P6Xx9OY");
+  client.login("token");
 
   client.on('message', message => { (`**:white_check_mark: تم الارسال في الخاص  **`)
   if (message.content.startsWith(prefix + "help"))  { (`**:white_check_mark: تم الارسال في الخاص  **`)
